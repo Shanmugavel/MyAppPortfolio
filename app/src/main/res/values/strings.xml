@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My App Portfolio</string>
+
+    <string name="app_title">My Nanodegree Apps!</string>
+    <string name="lbl_app1">Spotify Streamer</string>
+    <string name="lbl_app2">Football Scores App</string>
+    <string name="lbl_app3">Library App</string>
+    <string name="lbl_app4">Build it Bigger</string>
+    <string name="lbl_app5">XYZ Reader</string>
+    <string name="lbl_app6">Capstone</string>
+
+    <!-- Custom style-->
+    <string name="btn_width">200dp</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
